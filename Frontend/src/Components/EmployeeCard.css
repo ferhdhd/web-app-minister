@@ -1,0 +1,56 @@
+.paragraph-style {
+    font-family: 'Poppins';
+}
+
+.border-img {
+    border: 6px solid #2FAFE0;
+    border-radius: 100%;
+    max-width: 94px;
+    max-height: 94px;
+    min-height: 94px;
+    min-width: 94px;
+}
+
+.border-img-minister {
+    border: 6px solid #A3E02F;
+    border-radius: 100%;
+}
+
+.background-image {
+    background-color: #1c04bd;
+    border-radius: 5px;
+}
+
+.background-image-minister {
+    background-color: #FCCF35;
+    border-radius: 5px;
+}
+
+.background-card-body {
+    background-color: #1c04bd;
+    color: white;
+    border-radius: 5px;
+}
+
+.background-card-body-minister {
+    background-color: #FCCF35;
+    color: white;
+    border-radius: 5px;
+}
+
+
+.link-color {
+    color: white;
+}
+
+.name {
+    background-color: #1c04bd;
+    border-radius: 5px;
+    color: white;
+}
+
+.name-minister {
+    background-color: #FCCF35;
+    border-radius: 5px;
+    color: white;
+}
