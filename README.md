@@ -8,7 +8,7 @@ This project is one of the first "cool" things that i´ve ever code, some bugs m
 
 ## Instructions
 
-First, clone the project and then run the following command to install all the packages of it:
+First, clone the project and then run the following command to install all the packages of it in both folders:
 
 ```
 npm i
